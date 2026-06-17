@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "weather-advisory": {
+      "command": "python",
+      "args": ["/ABSOLUTE/PATH/TO/weather_mcp_server/server.py"],
+      "env": {}
+    }
+  }
+}
